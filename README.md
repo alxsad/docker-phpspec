@@ -1,2 +1,2 @@
 # docker-phpspec
-Docker immage with phpspec based on php 7
+Docker image with phpspec based on php 7
